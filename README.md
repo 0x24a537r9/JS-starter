@@ -1,2 +1,2 @@
-# jsgistperf.com
-A GitHub Gist-based JSPerf.com clone
+# Babel+SASS starter
+A Babel+SASS+Grunt starter project.

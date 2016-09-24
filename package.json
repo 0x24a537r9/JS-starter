@@ -1,0 +1,33 @@
+{
+  "name": "jsgistperf.com",
+  "description": "A GitHub Gist-based JSPerf.com clone",
+  "version": "0.1.0",
+  "private": false,
+  "author": "https://github.com/0x24a537r9/jsgistperf.com/contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0x24a537r9/jsgistperf.com.git"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "npm": ">=3.0.0"
+  },
+  "scripts": {
+    "start": "grunt",
+    "test": "grunt test",
+    "postinstall": "bower install --config.interactive=false"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-es2015": "^6.13.2",
+    "bower": "^1.7.9",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^6.0.0",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-shell": "^1.3.1",
+    "load-grunt-tasks": "^3.5.2"
+  }
+}

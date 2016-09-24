@@ -1,0 +1,9 @@
+{
+  "name": "jsgistperf.com",
+  "description": "A GitHub Gist-based JSPerf.com clone",
+  "homepage": "https://github.com/0x24a537r9/jsgistperf.com",
+  "license": "MIT",
+  "dependencies": {
+    "codemirror": "^5.17.0"
+  }
+}
